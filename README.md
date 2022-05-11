@@ -22,5 +22,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * e2
   * e3
 
-
+###### Imagenes
 ![Github Logo](https://avatars.githubusercontent.com/u/583231?v=4)
+
+###### Cursiva
+*Esto* es un _texto_
