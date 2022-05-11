@@ -18,6 +18,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 * C
 * D
 * E
-  *e1
-  *e2
-  *e3
+  * e1
+  * e2
+  * e3
