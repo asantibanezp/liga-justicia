@@ -27,3 +27,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ###### Cursiva
 *Esto* es un _texto_
+
+###### Negrita
+Esta es una **Negrita**
